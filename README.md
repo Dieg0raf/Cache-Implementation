@@ -16,7 +16,7 @@ To explore and simulate the cache implementation, follow these steps:
     -  Before running the simulation, ensure you have Logisim Evolution installed on your machine.
 3.  Open the project file in Logisim Evolution:
     -  Launch Logisim Evolution.
-    -  Open the project file cache_simulation.circ.
+    -  Open the project file Cache_2.circ.
 4.  Simulate the Cache:
     -  Use Logisim Evolution's simulation features to observe the cache behavior.
     -  Experiment with different inputs and explore how cache hits and misses are handled.
